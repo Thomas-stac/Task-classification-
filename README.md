@@ -79,6 +79,38 @@ This structured approach allowed the team to quickly prioritize and allocate res
 
 ---
 
+## ✨ Relevance to the i-CITY AI Platform Development
+
+This project demonstrates a range of skills and techniques directly relevant to the development of the **i-CITY AI Platform** modules:
+
+1. **Data Handling and Automation**:
+   - **Hospital Project**: Automated the scoring and prioritization of tasks based on structured criteria and keyword analysis.
+   - **i-CITY**: Skills transferable to automating analytics for system usage and quality monitoring.
+
+2. **Development of Intelligent Systems**:
+   - **Hospital Project**: Built an algorithm-driven scoring system to classify and prioritize repair tasks.
+   - **i-CITY**: Readiness to develop advanced AI systems, including RAG (Retrieval-Augmented Generation) models.
+
+3. **Feature Engineering and Adaptation**:
+   - **Hospital Project**: Designed a mathematical scoring model and weighted criteria to ensure accurate prioritization.
+   - **i-CITY**: Expertise in creating modular and adaptable systems to meet specific user and organizational needs.
+
+4. **Operational Efficiency**:
+   - **Hospital Project**: Minimized delays in repair workflows by optimizing task assignment and resource allocation.
+   - **i-CITY**: Demonstrates the ability to design systems that improve operational workflows and ensure efficient agent routing.
+
+5. **Security and Compliance**:
+   - **Hospital Project**: Maintained confidentiality and ensured ethical handling of sensitive data.
+   - **i-CITY**: Demonstrates awareness of data security requirements and best practices for system protection.
+
+6. **Scalability and Future Proofing**:
+   - **Hospital Project**: Developed a reusable and scalable scoring system capable of adapting to new criteria or larger datasets.
+   - **i-CITY**: Highlights the ability to design systems that can evolve with organizational needs and handle expanding data volumes.
+
+By leveraging my experience in structured data handling, algorithm development, and automation, this project highlights my ability to contribute effectively to Staizen’s **i-CITY AI Platform** development.
+
+---
+
 ## 🖥️ Key code
 
 Due to the private nature of the original data and my lack of access to the actual code developed during the project, I have recreated portions of the code to demonstrate its functionality. These reproductions are simplified examples designed to illustrate the core concepts and processes of the project while maintaining confidentiality and respecting data privacy regulations.
