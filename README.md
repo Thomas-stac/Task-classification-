@@ -81,6 +81,8 @@ This structured approach allowed the team to quickly prioritize and allocate res
 
 ## 🖥️ Key Code Snippets
 
+Due to the private nature of the original data and my lack of access to the actual code developed during the project, I have recreated portions of the code to demonstrate its functionality. These reproductions are simplified examples designed to illustrate the core concepts and processes of the project while maintaining confidentiality and respecting data privacy regulations.
+
 ### 1. **Text Preprocessing**
 
 This function processes and simplifies task descriptions by removing irrelevant details.
