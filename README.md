@@ -18,11 +18,11 @@ This structured approach allowed the team to quickly prioritize and allocate res
 
 ## 🏆 Achievements
 
-- **Scoring Algorithm**: Developed an algorithm to classify repair requests based on their priority.  
-- **Predictive System**: Estimated task duration and optimized team allocation.  
-- **Operational Efficiency**: Minimized decision-making time and ensured prompt response to critical tasks.  
-- **User-Friendly Reports**: Delivered a tool providing daily task prioritization reports in table format.  
-- **Simplified Descriptions**: Used a text processing module to make task descriptions clearer.  
+- **Scoring algorithm**: Developed an algorithm to classify repair requests based on their priority.  
+- **Predictive system**: Estimated task duration and optimized team allocation.  
+- **Operational efficiency**: Minimized decision-making time and ensured prompt response to critical tasks.  
+- **User-friendly reports**: Delivered a tool providing daily task prioritization reports in table format.  
+- **Simplified descriptions**: Used a text processing module to make task descriptions clearer.  
 - **Feedback**: Received positive feedback for enhancing the workflow of the department.  
 
 ---
@@ -44,9 +44,9 @@ This structured approach allowed the team to quickly prioritize and allocate res
 
 ### System development
 - Built the system in Python with these components:
-  - **Text Preprocessing**: Cleaned and simplified task descriptions.
-  - **Keyword Extraction**: Automated identification of critical keywords to assess urgency.
-  - **Scoring Function**: Calculated priority scores based on weighted criteria.
+  - **Text preprocessing**: Cleaned and simplified task descriptions.
+  - **Keyword extraction**: Automated identification of critical keywords to assess urgency.
+  - **Scoring function**: Calculated priority scores based on weighted criteria.
 - Developed reusable functions for scoring and data processing.
 
 ### Result presentation
@@ -60,7 +60,7 @@ This structured approach allowed the team to quickly prioritize and allocate res
 
 ## 🛠️ Technology stack
 
-- **Programming Language**: Python  
+- **Programming language**: Python  
 - **Libraries**:
   - `Pandas`: For data handling and table generation.
   - `NLTK`: For natural language processing.
@@ -83,28 +83,28 @@ This structured approach allowed the team to quickly prioritize and allocate res
 
 This project demonstrates a range of skills and techniques directly relevant to the development of the **i-CITY AI Platform** modules:
 
-1. **Data Handling and Automation**:
-   - **Hospital Project**: Automated the scoring and prioritization of tasks based on structured criteria and keyword analysis.
+1. **Data handling and automation**:
+   - **Hospital project**: Automated the scoring and prioritization of tasks based on structured criteria and keyword analysis.
    - **i-CITY**: Skills transferable to automating analytics for system usage and quality monitoring.
 
-2. **Development of Intelligent Systems**:
-   - **Hospital Project**: Built an algorithm-driven scoring system to classify and prioritize repair tasks.
+2. **Development of intelligent systems**:
+   - **Hospital project**: Built an algorithm-driven scoring system to classify and prioritize repair tasks.
    - **i-CITY**: Readiness to develop advanced AI systems, including RAG (Retrieval-Augmented Generation) models.
 
-3. **Feature Engineering and Adaptation**:
-   - **Hospital Project**: Designed a mathematical scoring model and weighted criteria to ensure accurate prioritization.
+3. **Feature engineering and adaptation**:
+   - **Hospital project**: Designed a mathematical scoring model and weighted criteria to ensure accurate prioritization.
    - **i-CITY**: Expertise in creating modular and adaptable systems to meet specific user and organizational needs.
 
-4. **Operational Efficiency**:
-   - **Hospital Project**: Minimized delays in repair workflows by optimizing task assignment and resource allocation.
+4. **Operational efficiency**:
+   - **Hospital project**: Minimized delays in repair workflows by optimizing task assignment and resource allocation.
    - **i-CITY**: Demonstrates the ability to design systems that improve operational workflows and ensure efficient agent routing.
 
-5. **Security and Compliance**:
-   - **Hospital Project**: Maintained confidentiality and ensured ethical handling of sensitive data.
+5. **Security and compliance**:
+   - **Hospital project**: Maintained confidentiality and ensured ethical handling of sensitive data.
    - **i-CITY**: Demonstrates awareness of data security requirements and best practices for system protection.
 
-6. **Scalability and Future Proofing**:
-   - **Hospital Project**: Developed a reusable and scalable scoring system capable of adapting to new criteria or larger datasets.
+6. **Scalability and future proofing**:
+   - **Hospital project**: Developed a reusable and scalable scoring system capable of adapting to new criteria or larger datasets.
    - **i-CITY**: Highlights the ability to design systems that can evolve with organizational needs and handle expanding data volumes.
 
 By leveraging my experience in structured data handling, algorithm development, and automation, this project highlights my ability to contribute effectively to Staizen’s **i-CITY AI Platform** development.
